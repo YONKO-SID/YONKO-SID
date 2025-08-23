@@ -109,7 +109,7 @@ int main() {
 |:------------------:|:--------------------:|:-----------------:|:---------------------:|
 | ✅ C Fundamentals | 📈 Data Structures | 🐍 Python Mastery | 📱 Mobile Apps |
 | ✅ Problem Solving | 📊 Algorithms | 🎯 Dart & Flutter | 🤖 AI Integration |
-| ✅ Git & GitHub | 💻 System Programming | 🌐 Web Development | 🌍 Open Source |
+| ✅ Git & GitHub | 💻 System Programming |🎮  Game Development | 🌍 Open Source |
 
 </div>
 
