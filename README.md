@@ -156,8 +156,8 @@ print(f"🎯 {journey.next_milestone()}")
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YONKO-SID)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golangfanboysid@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@YONKO_SID)
-[![Hackerrank](https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png)](https://www.hackerrank.com/profile/YONKO_SID)
-[![Leetcode](https://miro.medium.com/v2/resize:fit:640/format:webp/0*xJCLQQRZv3XFMUd1)](https://leetcode.com/u/YONKO_SID/)
+[![Hackerrank](https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-100px.png)](https://www.hackerrank.com/profile/YONKO_SID)
+[![Leetcode](https://miro.medium.com/v2/resize:fit:84/format:webp/0*xJCLQQRZv3XFMUd1)](https://leetcode.com/u/YONKO_SID/)
 
 </div>
 
