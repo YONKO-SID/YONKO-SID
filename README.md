@@ -156,9 +156,16 @@ print(f"🎯 {journey.next_milestone()}")
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YONKO-SID)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golangfanboysid@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@YONKO_SID)
-[![Hackerrank](https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-300px.png)](https://www.hackerrank.com/profile/YONKO_SID)
-[![Leetcode]([https://miro.medium.com/v2/resize:fit:84/format:webp/0*xJCLQQRZv3XFMUd1)](https://leetcode.com/u/YONKO_SID/)
 
+ <a href="https://www.hackerrank.com/profile/YONKO_SID">
+    <img src="https://i0.wp.com/www.e4developer.com/wp-content/uploads/2018/03/hackerrank.png?w=1024&ssl=1" width="100" height="30" alt="HackerRank">
+  </a>
+  <a href="https://leetcode.com/u/YONKO_SID/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" width="80" height="30" alt="Leetcode">
+  </a>
+  <a href="https://codeforces.com/profile/YONKO_SID">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="120" height="30" alt="Codeforces">
+  </a>
 </div>
 
 ---
@@ -209,5 +216,5 @@ print(f"🎯 {journey.next_milestone()}")
     ⠀⠀⠀⠀⠀⠀⠀⢿⣿⣦⣄⣀⣠⣴⣿⣿⠁⠀⠈⠻⣿⣿⣿⣿⡿⠏⠀⠀⠀⠀
     ⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⠿⠿⠿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     
-    If you found this ASCII art, you're a true developer! 🎉
+    among us
 -->
