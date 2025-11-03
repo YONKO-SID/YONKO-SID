@@ -94,11 +94,17 @@ int main() {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YONKO-SID&repo=Assistant-in-c-&theme=tokyonight&border_radius=10" alt="Assistant in C"/>
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/YONKO-SID/secure_qr-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YONKO-SID&repo=secure_qr&theme=tokyonight&border_radius=10" alt="Secure QR"/>
+  </a>
+</div>
 
 ### 🔥 What I'm Building:
 - **🤖 Assistant in C** - A powerful CLI assistant built from scratch in C
+- **📱 Sequre QR** - A Qr code scanning app that scans the qrs and flags them as safe or malicious using Flutter and Firebase
 - **📚 Learning Projects** - Daily C programming challenges and mini-projects
-- **🚀 Future Vision** - Planning awesome Python scripts and Flutter apps!
+- **🚀 Future Vision** - Planning awesome Python scripts and cyber security tools!
 
 ---
 
@@ -108,9 +114,9 @@ int main() {
 
 | 🏗️ **Foundation** | 🚀 **Current Focus** | 🌟 **Next Level** | 💫 **Dream Projects** |
 |:------------------:|:--------------------:|:-----------------:|:---------------------:|
-| ✅ C Fundamentals | 📈 Data Structures | 🐍 Python Mastery | 📱 Mobile Apps |
-| ✅ Problem Solving | 📊 Algorithms | 🎯 Dart & Flutter | 🤖 AI Integration |
-| ✅ Git & GitHub | 💻 System Programming |🎮  Game Development | 🌍 Open Source |
+| ✅ C Fundamentals | 🎯 Dart & Flutter  | 🐍 Python Mastery |🎮  Game Development   |
+| ✅ Problem Solving |📱 Mobile Apps  |📈 Data Structures | 🤖 AI Integration |
+| ✅ Git & GitHub | 💻 System Programming |📊 Algorithms| 🌍 Open Source |
 
 </div>
 
